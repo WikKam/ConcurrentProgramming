@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PK active object/PK active object.iml" filepath="$PROJECT_DIR$/PK active object/PK active object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK async/PK async.iml" filepath="$PROJECT_DIR$/PK async/PK async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK boolean/PK boolean.iml" filepath="$PROJECT_DIR$/PK boolean/PK boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK boolean/PK boolean/PK boolean1.iml" filepath="$PROJECT_DIR$/PK boolean/PK boolean/PK boolean1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PK simple/PK simple.iml" filepath="$PROJECT_DIR$/PK simple/PK simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Philosophers/Philosophers.iml" filepath="$PROJECT_DIR$/Philosophers/Philosophers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/concurrent-programming.iml" filepath="$PROJECT_DIR$/.idea/concurrent-programming.iml" />
+    </modules>
+  </component>
+</project>
